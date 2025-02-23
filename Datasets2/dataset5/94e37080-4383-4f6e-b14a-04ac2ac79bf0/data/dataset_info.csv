@@ -1,0 +1,287 @@
+Code,Paper,Day,Description,folder directory,unit,soil_temp_available,pH,bulk_density,soil_texture,measurment_season,wfps,irrigation,grazing
+N2O_001,Akiyama et al 2000,1,chamber 1,Akiyama et al 2000/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_002,Akiyama et al 2000,2,chamber 1,Akiyama et al 2000/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_003,Akiyama et al 2000,3,chamber 1,Akiyama et al 2000/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_004,Akiyama et al 2000,4,chamber 1,Akiyama et al 2000/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_005,Akiyama et al 2000,5,chamber 1,Akiyama et al 2000/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_006,Akiyama et al 2000,1,chamber 2,Akiyama et al 2000/N2O_2,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_007,Akiyama et al 2000,2,chamber 2,Akiyama et al 2000/N2O_2,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_008,Akiyama et al 2000,3,chamber 2,Akiyama et al 2000/N2O_2,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_009,Akiyama et al 2000,4,chamber 2,Akiyama et al 2000/N2O_2,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_010,Akiyama et al 2000,5,chamber 2,Akiyama et al 2000/N2O_2,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_011,Akiyama and Tsuruta 2002,1,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_012,Akiyama and Tsuruta 2002,2,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_013,Akiyama and Tsuruta 2002,3,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_014,Akiyama and Tsuruta 2002,4,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_015,Akiyama and Tsuruta 2002,5,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_016,Akiyama and Tsuruta 2002,6,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_017,Akiyama and Tsuruta 2002,7,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_018,Akiyama and Tsuruta 2002,8,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_019,Akiyama and Tsuruta 2002,9,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_020,Akiyama and Tsuruta 2002,10,summer,Akiyama et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_021,Akiyama and Tsuruta 2003a,1,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_022,Akiyama and Tsuruta 2003a,2,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_023,Akiyama and Tsuruta 2003a,3,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_024,Akiyama and Tsuruta 2003a,4,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_025,Akiyama and Tsuruta 2003a,5,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_026,Akiyama and Tsuruta 2003a,6,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_027,Akiyama and Tsuruta 2003a,7,,Akiyama et al 2003a/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_028,Akiyama and Tsuruta 2003b,1,,Akiyama et al 2003b/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_029,Akiyama and Tsuruta 2003b,2,,Akiyama et al 2003b/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_030,Akiyama and Tsuruta 2003b,3,,Akiyama et al 2003b/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_031,Akiyama and Tsuruta 2003b,4,,Akiyama et al 2003b/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_032,Akiyama and Tsuruta 2003b,5,,Akiyama et al 2003b/N2O_1,ug N m-2 h-1,Y,5.9,0.92,NA,summer,35-55%,N,N
+N2O_033,Alves et al 2012,1,Brazil,Alves et al 2012/N2O_1,ug N m-2 h-1,Y,5.41,1.34,sandy clay loam,autumn,NA,Y,N
+N2O_034,Alves et al 2012,2,Brazil,Alves et al 2012/N2O_1,ug N m-2 h-1,Y,5.41,1.34,sandy clay loam,autumn,NA,Y,N
+N2O_035,Alves et al 2012,3,Brazil,Alves et al 2012/N2O_1,ug N m-2 h-1,Y,5.41,1.34,sandy clay loam,autumn,NA,Y,N
+N2O_036,Alves et al 2012,4,Brazil,Alves et al 2012/N2O_1,ug N m-2 h-1,Y,5.41,1.34,sandy clay loam,autumn,NA,Y,N
+N2O_037,Alves et al 2012,5,Brazil,Alves et al 2012/N2O_1,ug N m-2 h-1,Y,5.41,1.34,sandy clay loam,autumn,NA,Y,N
+N2O_038,Ball et al 1999,1,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_039,Ball et al 1999,2,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_040,Ball et al 1999,3,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_041,Ball et al 1999,4,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_042,Ball et al 1999,5,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_043,Ball et al 1999,6,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_044,Ball et al 1999,7,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_045,Ball et al 1999,8,heavy compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_1,ug N m-2 h-1,N,NA,1.4,loam,spring,NA,N,N
+N2O_046,Ball et al 1999,1,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_047,Ball et al 1999,2,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_048,Ball et al 1999,3,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_049,Ball et al 1999,4,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_050,Ball et al 1999,5,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_051,Ball et al 1999,6,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_052,Ball et al 1999,7,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_053,Ball et al 1999,8,zero compaction; winter barley; 110 kg N ha-1,Ball et al 1999/N2O_2,ug N m-2 h-1,N,NA,1.21,loam,spring,NA,N,N
+N2O_054,Ball et al 1999,1,no tillage; spring barley 7-10 weeks; 80 kg N ha-1 ,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_055,Ball et al 1999,2,no tillage; spring barley 7-10 weeks; 80 kg N ha-1 ,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_056,Ball et al 1999,3,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_057,Ball et al 1999,4,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_058,Ball et al 1999,5,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_059,Ball et al 1999,6,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_060,Ball et al 1999,7,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_061,Ball et al 1999,8,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_062,Ball et al 1999,9,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_063,Ball et al 1999,10,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_064,Ball et al 1999,11,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_065,Ball et al 1999,12,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_066,Ball et al 1999,13,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_067,Ball et al 1999,14,no tillage; spring barley 7-10 weeks; 80 kg N ha-1,Ball et al 1999/N2O_3,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_068,Ball et al 1999,1,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_069,Ball et al 1999,2,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_070,Ball et al 1999,3,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_071,Ball et al 1999,4,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_072,Ball et al 1999,5,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_073,Ball et al 1999,6,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_074,Ball et al 1999,7,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_075,Ball et al 1999,8,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_076,Ball et al 1999,9,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_077,Ball et al 1999,10,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_078,Ball et al 1999,11,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_079,Ball et al 1999,12,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_080,Ball et al 1999,13,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_081,Ball et al 1999,14,plough 200 mm,Ball et al 1999/N2O_4,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_082,Ball et al 1999,1,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_083,Ball et al 1999,2,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_084,Ball et al 1999,3,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_085,Ball et al 1999,4,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_086,Ball et al 1999,5,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_087,Ball et al 1999,6,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_088,Ball et al 1999,7,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_089,Ball et al 1999,8,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_090,Ball et al 1999,9,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_091,Ball et al 1999,10,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_092,Ball et al 1999,11,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_093,Ball et al 1999,12,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_094,Ball et al 1999,13,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_095,Ball et al 1999,14,plough 300 mm,Ball et al 1999/N2O_5,ug N2O m-2 h-1,N,NA,NA,loam,spring,NA,N,N
+N2O_096,Brumme and Beese 1992,1,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_097,Brumme and Beese 1992,2,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_098,Brumme and Beese 1992,3,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_099,Brumme and Beese 1992,4,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_100,Brumme and Beese 1992,5,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_101,Brumme and Beese 1992,6,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_102,Brumme and Beese 1992,7,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_103,Brumme and Beese 1992,8,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_104,Brumme and Beese 1992,9,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_105,Brumme and Beese 1992,10,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_106,Brumme and Beese 1992,11,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_107,Brumme and Beese 1992,12,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_108,Brumme and Beese 1992,13,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_109,Brumme and Beese 1992,14,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_110,Brumme and Beese 1992,15,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_111,Brumme and Beese 1992,16,NA,Brumme et al 1992/N2O_1,ug N m-2 h-1,N,3,NA,NA,summer,NA,N,N
+N2O_112,Brummer et al 2017_Braunschweig,avg,Braunschweig - no fert - mean fluxes,Brummer et al 2017/N2O_1,ug N m-2 h-1,N,NA,NA,silt loam,winter,NA,N,N
+N2O_113,Brummer et al 2017_Riso,avg,Riso - fert effect excluded (low fluxes) - mean fluxes,Brummer et al 2017/N2O_2,ug N m-2 h-1,N,NA,NA,sandy loam,spring,NA,N,N
+N2O_114,Das et al 2012,1,"grass no urine (GN), day 6 of exp",Das et al 2012/N2O_1,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_115,Das et al 2012,1,"soil no urine (SU), day 6 of exp",Das et al 2012/N2O_2,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_116,Das et al 2012,1,"grass and urine (GU), day 6 of exp",Das et al 2012/N2O_3,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_117,Das et al 2012,1,"soil and urine (SU), day 6 of exp",Das et al 2012/N2O_4,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_118,Das et al 2012,1,"grass no urine (GN), day 19 of exp",Das et al 2012/N2O_5,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_119,Das et al 2012,1,"soil no urine (SU), day 19 of exp",Das et al 2012/N2O_6,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_120,Das et al 2012,1,"grass and urine (GU), day 19 of exp",Das et al 2012/N2O_7,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_121,Das et al 2012,1,"soil and urine (SU), day 19 of exp",Das et al 2012/N2O_8,ng N cm-2 h-1,N,NA,1.26,silt loam,NA,35-55%,Y,N
+N2O_122,Denmead et al 2010,avg,mean fluxes of 15 days,Denmead et al 2010/N2O_1,ng N2O m-2 s-1,N,5,NA,clay loam,spring,55-75%,N,N
+N2O_123,Du et al 2006,1,before heading stage,Du et al 2006/N2O_1,ug N m-2 h-1,Y,6.9,NA,sandy loam,summer,15-35%,N,N
+N2O_124,Du et al 2006,1,flowering stage,Du et al 2006/N2O_2,ug N m-2 h-1,Y,6.9,NA,sandy loam,summer,15-35%,N,N
+N2O_125,Du et al 2006,1,seeding stage,Du et al 2006/N2O_3,ug N m-2 h-1,Y,6.9,NA,sandy loam,summer,35-55%,N,N
+N2O_126,Du et al 2006,1,after seeding stage,Du et al 2006/N2O_4,ug N m-2 h-1,Y,6.9,NA,sandy loam,autumn,15-35%,N,N
+N2O_127,Flessa et al 2002,1,mulched soil,Flessa et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,1.2,silt loam,NA,NA,Y,N
+N2O_128,Flessa et al 2002,2,mulched soil,Flessa et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,1.2,silt loam,NA,NA,Y,N
+N2O_129,Flessa et al 2002,3,mulched soil,Flessa et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,1.2,silt loam,NA,NA,Y,N
+N2O_130,Flessa et al 2002,4,mulched soil,Flessa et al 2002/N2O_1,ug N m-2 h-1,Y,5.9,1.2,silt loam,NA,NA,Y,N
+N2O_131,Hosono et al 2006,1,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_132,Hosono et al 2006,2,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_133,Hosono et al 2006,3,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_134,Hosono et al 2006,4,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_135,Hosono et al 2006,5,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_136,Hosono et al 2006,6,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_137,Hosono et al 2006,7,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_138,Hosono et al 2006,8,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_139,Hosono et al 2006,9,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_140,Hosono et al 2006,10,NA,Hosono et al 2006/N2O_1,ug N m-2 h-1,Y,6.5,NA,NA,spring,NA,Y,N
+N2O_141,Huang et al 2014,1,"first period, after 39 kg N ha-1 fertilisation",Huang et al 2014/N2O_1,ug N m-2 h-1,Y,NA,NA,silt loam,spring,15-35%,N,N
+N2O_142,Huang et al 2014,1,"second period, after 79 kg N ha-1 fertilisation",Huang et al 2014/N2O_2,ug N m-2 h-1,Y,NA,NA,silt loam,spring,15-35%,N,N
+N2O_143,Huang et al 2014,1,"third period, no fertilisation",Huang et al 2014/N2O_3,ug N m-2 h-1,Y,NA,NA,silt loam,summer,15-35%,N,N
+N2O_144,Huang et al 2014,1,"forth period, no fertilisation",Huang et al 2014/N2O_4,ug N m-2 h-1,Y,NA,NA,silt loam,summer,15-35%,N,N
+N2O_145,Keane et al 2018,1,NA,Keane et al 2018/N2O_1,ug N2O m-2 h-1,Y,NA,1.33,NA,spring,55-75%,N,N
+N2O_146,Keane et al 2018,2,NA,Keane et al 2018/N2O_1,ug N2O m-2 h-1,Y,NA,1.33,NA,spring,55-75%,N,N
+N2O_147,Kostyanovsky et al 2019,1,"NT, dry",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,<15%,N,N
+N2O_148,Kostyanovsky et al 2019,1,"CT, dry",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,<15%,N,N
+N2O_149,Kostyanovsky et al 2019,1,"NT, water+N",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,75-95%,Y,N
+N2O_150,Kostyanovsky et al 2019,1,"CT, water+N",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,75-95%,Y,N
+N2O_151,Kostyanovsky et al 2019,1,"NT, water",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,75-95%,Y,N
+N2O_152,Kostyanovsky et al 2019,1,"CT, water",Kostyanovsky et al 2019/N2O_2,mg N2O m-2 h-1,N,5.87,1.18,NA,summer,75-95%,Y,N
+N2O_153,Laville et al 1997,avg,"normalised data, average of 10 days",Laville et al 1997/N2O_1,NA,N,6,NA,loam,autumn,55-75%,N,N
+N2O_154,Laville et al 2011,avg,"normalised data, average of 10 days",Laville et al 2011/N2O_1,NA,Y,8.3,1.3,silt loam,spring,35-55%,N,N
+N2O_155,Laville et al 2017,avg,"fertilised, average of 51 days",Laville et al 2017/N2O_1,ng N m-2 s-1,Y,7.7,1.26,silty clay,summer,55-75%,Y,N
+N2O_156,Laville et al 2017,avg,"non-fertilised, average of 51 days",Laville et al 2017/N2O_2,ng N m-2 s-1,Y,7.7,1.26,silty clay,summer,55-75%,Y,N
+N2O_157,Liu et al 2010,1,NA,Liu et al 2010/N2O_1,ug N m-2 h-1,N,8,1.2,silty clay loam,NA,NA,Y,N
+N2O_158,Liu et al 2014,avg,cotton year 1,Liu et al 2014/N2O_1,ug N m-2 h-1,N,NA,NA,NA,NA,15-35%,Y,N
+N2O_159,Liu et al 2014,avg,cotton year 2,Liu et al 2014/N2O_2,ug N m-2 h-1,N,NA,NA,NA,NA,15-35%,Y,N
+N2O_160,Liu et al 2014,avg,wheat maize year 1 ,Liu et al 2014/N2O_3,ug N m-2 h-1,N,NA,NA,NA,NA,15-35%,Y,N
+N2O_161,Liu et al 2014,avg,wheat maize year 2 ,Liu et al 2014/N2O_4,ug N m-2 h-1,N,NA,NA,NA,NA,15-35%,Y,N
+N2O_162,Liu et al 2014,avg,wheat maize year 3,Liu et al 2014/N2O_5,ug N m-2 h-1,N,NA,NA,NA,NA,35-55%,Y,N
+N2O_163,Loftfield and Brumme 1992,1,forest soil under beech,Loftfield et al 1992/N2O_1,ug N m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_164,Loftfield and Brumme 1992,2,forest soil under beech,Loftfield et al 1992/N2O_1,ug N m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_165,Loftfield and Brumme 1992,3,forest soil under beech,Loftfield et al 1992/N2O_1,ug N m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_166,Loftfield and Brumme 1992,4,forest soil under beech,Loftfield et al 1992/N2O_1,ug N m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_167,Lognoul et al 2019,avg,"normalised data, N2O burst episode, average of 19 days",Lognoul et al 2019/N2O_1,NA,Y,NA,NA,silt loam,spring,55-75%,N,N
+N2O_168,Lognoul et al 2019,avg,"normalised data, background emission, average of 37 days",Lognoul et al 2019/N2O_2,NA,Y,NA,NA,silt loam,summer,35-55%,N,N
+N2O_169,Machado et al 2019,avg,30 days avg; after spring-thaw; normalised data,Machado et al 2019/N2O_1,NA,Y,NA,NA,NA,spring,NA,N,N
+N2O_170,Machado et al 2019,avg,45 days avg; after N fert; normalised data,Machado et al 2019/N2O_2,NA,Y,NA,NA,NA,NA,NA,N,N
+N2O_171,Maljanen et al 2002_g,avg,15 days avg; grassland,Maljanen et al 2002/N2O_1,ug N2O m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_172,Maljanen et al 2002_c,avg,15 days avg; bare cut soil,Maljanen et al 2002/N2O_2,ug N2O m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_173,Maljanen et al 2002_f,avg,15 days avg; forest soil,Maljanen et al 2002/N2O_3,ug N2O m-2 h-1,Y,NA,NA,NA,summer,NA,N,N
+N2O_174,Maljanen et al 2002_c,1,bare soil; tilled ,Maljanen et al 2002/N2O_4,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_175,Maljanen et al 2002_c,2,bare soil; tilled ,Maljanen et al 2002/N2O_4,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_176,Maljanen et al 2002_c,3,bare soil; tilled ,Maljanen et al 2002/N2O_4,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_177,Maljanen et al 2002_c,4,bare soil; tilled ,Maljanen et al 2002/N2O_4,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_178,Maljanen et al 2002_c,5,bare soil; tilled ,Maljanen et al 2002/N2O_4,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_179,Maljanen et al 2002_c,1,barley soil ,Maljanen et al 2002/N2O_5,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_180,Maljanen et al 2002_c,2,barley soil ,Maljanen et al 2002/N2O_5,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_181,Maljanen et al 2002_c,3,barley soil ,Maljanen et al 2002/N2O_5,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_182,Maljanen et al 2002_c,4,barley soil ,Maljanen et al 2002/N2O_5,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_183,Maljanen et al 2002_c,5,barley soil ,Maljanen et al 2002/N2O_5,ug N2O m-2 h-1,N,NA,NA,NA,summer,NA,N,N
+N2O_184,Peng et al 2019,1,"growing period, 15/06/15",Peng et al 2019/N2O_1,ug N2O m-2 h-1,Y,5.85,0.85,NA,summer,NA,N,N
+N2O_185,Peng et al 2019,1,"growing period, 17/08/15",Peng et al 2019/N2O_2,ug N2O m-2 h-1,Y,5.85,0.85,NA,summer,NA,N,N
+N2O_186,Peng et al 2019,1,"freeze-thaw period, 25/03/16",Peng et al 2019/N2O_3,ug N2O m-2 h-1,Y,5.85,0.85,NA,spring,75-95%,N,N
+N2O_187,Peng et al 2019,1,"freeze-thaw period, 10/04/16",Peng et al 2019/N2O_4,ug N2O m-2 h-1,Y,5.85,0.85,NA,spring,75-95%,N,N
+N2O_188,Reeves and Wang 2015,avg,chamber 1; standardised average of high flux days (i.e. > 20 g N2O-N ha-1 d-1 / > 83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_1,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_189,Reeves and Wang 2015,avg,chamber 2; standardised average of high flux days (i.e. > 20 g N2O-N ha-1 d-1 / > 83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_2,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_190,Reeves and Wang 2015,avg,chamber 3; standardised average of high flux days (i.e. > 20 g N2O-N ha-1 d-1 / > 83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_3,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_191,Reeves and Wang 2015,avg ,chamber 1; standardised average of low flux days (i.e. 2-20 g N2O-N ha-1 d-1 / 8-83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_4,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_192,Reeves and Wang 2015,avg,chamber 2; standardised average of low flux days (i.e. 2-20 g N2O-N ha-1 d-1 / 8-83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_5,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_193,Reeves and Wang 2015,avg,chamber 3; standardised average of low flux days (i.e. 2-20 g N2O-N ha-1 d-1 / 8-83 ug N2O-N m-2 h-1),Reeves et al 2015/N2O_6,NA,Y,NA,1.05,clay loam,NA,NA,N,N
+N2O_194,Reeves et al 2016_s1,avg,replicate 1 of site 1; standardised average of multiple days,Reeves et al 2016/N2O_1,NA,Y,NA,NA,loamy sand,summer,NA,Y,N
+N2O_195,Reeves et al 2016_s1,avg,replicate 2 of site 1; standardised average of multiple days,Reeves et al 2016/N2O_2,NA,Y,NA,NA,loamy sand,summer,NA,Y,N
+N2O_196,Reeves et al 2016_s1,avg,replicate 3 of site 1; standardised average of multiple days,Reeves et al 2016/N2O_3,NA,Y,NA,NA,loamy sand,summer,NA,Y,N
+N2O_197,Reeves et al 2016_s2,avg,replicate 1 of site 2; standardised average of multiple days,Reeves et al 2016/N2O_4,NA,Y,NA,NA,sandy clay,summer,NA,Y,N
+N2O_198,Reeves et al 2016_s2,avg,replicate 2 of site 2; standardised average of multiple days,Reeves et al 2016/N2O_5,NA,Y,NA,NA,sandy clay,summer,NA,Y,N
+N2O_199,Reeves et al 2016_s3,avg,replicate 1 of site 3; standardised average of multiple days,Reeves et al 2016/N2O_6,NA,Y,NA,NA,silty clay,summer,NA,Y,N
+N2O_200,Reeves et al 2016_s3,avg,replicate 2 of site 3; standardised average of multiple days,Reeves et al 2016/N2O_7,NA,Y,NA,NA,silty clay,summer,NA,Y,N
+N2O_201,Reeves et al 2016_s3,avg,replicate 3 of site 3; standardised average of multiple days,Reeves et al 2016/N2O_8,NA,Y,NA,NA,silty clay,summer,NA,Y,N
+N2O_202,Savage et al 2014a,avg,average of one alfalfa crop cycle,Savage et al 2014/N2O_1,ug N m-2 h-1,Y,5.7,NA,silt loam,spring,55-75%,N,N
+N2O_203,Scheer et al 2008,1,after fertilisation and irrigation,Scheer et al 2008/N2O_1,ug N m-2 h-1,Y,6.5,1.51,sandy loam,summer,55-75%,Y,N
+N2O_204,Scheer et al 2008,1,after irrigation,Scheer et al 2008/N2O_2,ug N m-2 h-1,Y,6.5,1.51,sandy loam,summer,55-75%,Y,N
+N2O_205,Scheer et al 2012,1,replicate 1 of low irrigation treatment,Scheer et al 2012/N2O_1,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_206,Scheer et al 2012,2,replicate 1 of low irrigation treatment,Scheer et al 2012/N2O_1,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_207,Scheer et al 2012,1,replicate 2 of low irrigation treatment,Scheer et al 2012/N2O_2,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_208,Scheer et al 2012,2,replicate 2 of low irrigation treatment,Scheer et al 2012/N2O_2,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_209,Scheer et al 2012,1,replicate 3 of low irrigation treatment,Scheer et al 2012/N2O_3,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_210,Scheer et al 2012,2,replicate 3 of low irrigation treatment,Scheer et al 2012/N2O_3,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_211,Scheer et al 2012,1,replicate 1 of medium irrigation treatment,Scheer et al 2012/N2O_4,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_212,Scheer et al 2012,2,replicate 1 of medium irrigation treatment,Scheer et al 2012/N2O_4,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_213,Scheer et al 2012,1,replicate 2 of medium irrigation treatment,Scheer et al 2012/N2O_5,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_214,Scheer et al 2012,2,replicate 2 of medium irrigation treatment,Scheer et al 2012/N2O_5,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_215,Scheer et al 2012,1,replicate 3 of medium irrigation treatment,Scheer et al 2012/N2O_6,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_216,Scheer et al 2012,2,replicate 3 of medium irrigation treatment,Scheer et al 2012/N2O_6,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_217,Scheer et al 2012,1,replicate 1 of high irrigation treatment,Scheer et al 2012/N2O_7,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_218,Scheer et al 2012,2,replicate 1 of high irrigation treatment,Scheer et al 2012/N2O_7,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_219,Scheer et al 2012,1,replicate 2 of high irrigation treatment,Scheer et al 2012/N2O_8,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_220,Scheer et al 2012,2,replicate 2 of high irrigation treatment,Scheer et al 2012/N2O_8,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_221,Scheer et al 2012,1,replicate 3 of high irrigation treatment,Scheer et al 2012/N2O_9,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_222,Scheer et al 2012,2,replicate 3 of high irrigation treatment,Scheer et al 2012/N2O_9,g N ha-1 d-1,Y,7.2,NA,clay,summer,55-75%,Y,N
+N2O_223,Scheer et al 2013,avg,average fluxes of cotton growing season; average of 9 chambers,Scheer et al 2013/N2O_1,g N ha-1 d-1,N,7.2,NA,clay,summer,55-75%,Y,N
+N2O_224,Scheer et al 2014b,1,"120 kg N ha-1, broccoli",Scheer et al 2014/N2O_1,ug N m-2 h-1,Y,7.4,NA,sandy loam,summer,55-75%,Y,N
+N2O_225,Scheer et al 2014b,2,"120 kg N ha-1, broccoli",Scheer et al 2014/N2O_1,ug N m-2 h-1,Y,7.4,NA,sandy loam,summer,55-75%,Y,N
+N2O_226,Scheer et al 2014b,3,"120 kg N ha-1, broccoli",Scheer et al 2014/N2O_1,ug N m-2 h-1,Y,7.4,NA,sandy loam,summer,55-75%,Y,N
+N2O_227,Scheer et al 2014b,4,"120 kg N ha-1, broccoli",Scheer et al 2014/N2O_1,ug N m-2 h-1,Y,7.4,NA,sandy loam,summer,55-75%,Y,N
+N2O_228,Shurpali et al 2016,avg,average fluxes of high emission period; reed canary grass,Shurpali et al 2016/N2O_1,ug N2O m-2 h-1,N,5.8,1.1,loam,spring,55-75%,N,N
+N2O_229,Shurpali et al 2016,avg,average fluxes of low emission period; reed canary grass,Shurpali et al 2016/N2O_2,ug N2O m-2 h-1,N,5.8,1.1,loam,summer,35-55%,N,N
+N2O_230,Simek et al 2010,1,mean of 6 chambers,Simek et al 2010/N2O_1,ug N m-2 h-1,Y,7.25,NA,sandy loam,spring,NA,N,N
+N2O_231,Simek et al 2010,1,"mean of 6 chambers, after 500 kg N ha-1 nitrate and 500 kg C ha-1 glucose addition",Simek et al 2010/N2O_2,ug N m-2 h-1,Y,7.25,NA,sandy loam,spring,NA,N,N
+N2O_232,Skiba et al 1996,1,winter wheat soil,Skiba et al 1996/N2O_1,ng N m-2 s-1,Y,NA,NA,sandy clay loam,spring,NA,N,N
+N2O_233,Skiba et al 1996,2,winter wheat soil,Skiba et al 1996/N2O_1,ng N m-2 s-1,Y,NA,NA,sandy clay loam,spring,NA,N,N
+N2O_234,Smith et al 1995,1,"100 kg N ha-1, greenhouse",Smith et al 1995/N2O_1,ug N m-2 h-1,Y,NA,NA,sandy loam,summer,NA,N,N
+N2O_235,Smith et al 1995,2,"100 kg N ha-1, greenhouse",Smith et al 1995/N2O_1,ug N m-2 h-1,Y,NA,NA,sandy loam,summer,NA,N,N
+N2O_236,Smith et al 1998_loam,1,"fallow sandy loam, 50 kg N ha-1",Smith et al 1998/N2O_1,ug N m-2 h-1,Y,5.7,NA,sandy loam,summer,NA,N,N
+N2O_237,Smith et al 1998_loam,2,"fallow sandy loam, 50 kg N ha-1",Smith et al 1998/N2O_1,ug N m-2 h-1,Y,5.7,NA,sandy loam,summer,NA,N,N
+N2O_238,Smith et al 1998_gley,1,"fallow peaty gley, 50 kg N ha-1",Smith et al 1998/N2O_2,ug N m-2 h-1,Y,3.7,NA,peaty gley,summer,NA,N,N
+N2O_239,Smith et al 1998_gley,2,"fallow peaty gley, 50 kg N ha-1",Smith et al 1998/N2O_2,ug N m-2 h-1,Y,3.7,NA,peaty gley,summer,NA,N,N
+N2O_240,van der Weerden et al 2013,1,"perennial ryegrass/white clover, after 486 kg N ha-1 urine addition",van der Weerden et al 2013/N2O_1,ug N m-2 h-1,Y,5.8,0.96,silt loam,spring,55-75%,Y,N
+N2O_241,van der Weerden et al 2013,2,"perennial ryegrass/white clover, after 486 kg N ha-1 urine addition",van der Weerden et al 2013/N2O_1,ug N m-2 h-1,Y,5.8,0.96,silt loam,spring,55-75%,Y,N
+N2O_242,van der Weerden et al 2013,3,"perennial ryegrass/white clover, after 486 kg N ha-1 urine addition",van der Weerden et al 2013/N2O_1,ug N m-2 h-1,Y,5.8,0.96,silt loam,spring,55-75%,Y,N
+N2O_243,van der Weerden et al 2013,4,"perennial ryegrass/white clover, after 486 kg N ha-1 urine addition",van der Weerden et al 2013/N2O_1,ug N m-2 h-1,Y,5.8,0.96,silt loam,spring,55-75%,Y,N
+N2O_244,Wang et al 2005,1,"unfertilised ungrazed grassland, 07/06",Wang et al 2005/N2O_1,ug N m-2 h-1,N,6.6,NA,NA,summer,15-35%,N,N
+N2O_245,Wang et al 2005,1,"unfertilised moderately grazed grassland, 07/06",Wang et al 2005/N2O_2,ug N m-2 h-1,N,6.6,NA,NA,summer,15-35%,N,Y
+N2O_246,Wang et al 2005,1,"unfertilised ungrazed grassland, 08/07",Wang et al 2005/N2O_3,ug N m-2 h-1,N,6.6,NA,NA,summer,15-35%,N,N
+N2O_247,Wang et al 2005,1,"unfertilised moderately grazed grassland, 08/07",Wang et al 2005/N2O_4,ug N m-2 h-1,N,6.6,NA,NA,summer,15-35%,N,Y
+N2O_248,Wang et al 2005,1,"unfertilised ungrazed grassland, 13/08",Wang et al 2005/N2O_5,ug N m-2 h-1,N,7.9,NA,NA,summer,15-35%,N,N
+N2O_249,Wang et al 2005,1,"unfertilised moderately grazed grassland, 13/08",Wang et al 2005/N2O_6,ug N m-2 h-1,N,7.9,NA,NA,summer,15-35%,N,Y
+N2O_250,Wang et al 2005,1,"unfertilised ungrazed grassland, 10/09",Wang et al 2005/N2O_7,ug N m-2 h-1,N,7.9,NA,NA,summer,15-35%,N,N
+N2O_251,Wang et al 2005,1,"unfertilised moderately grazed grassland, 10/09",Wang et al 2005/N2O_8,ug N m-2 h-1,N,7.9,NA,NA,summer,15-35%,N,Y
+N2O_252,Williams et al 1999,1,"perennial ryegrass/white clover, 120 kg N ha-1 urine",Williams et al 1999/N2O_1,mg N m-2 d-1,Y,8.6,NA,NA,spring,NA,N,Y
+N2O_253,Williams et al 1999,2,"perennial ryegrass/white clover, 120 kg N ha-1 urine",Williams et al 1999/N2O_1,mg N m-2 d-1,Y,8.6,NA,NA,spring,NA,N,Y
+N2O_254,Williams et al 1999,3,"perennial ryegrass/white clover, 120 kg N ha-1 urine",Williams et al 1999/N2O_1,mg N m-2 d-1,Y,8.6,NA,NA,spring,NA,N,Y
+N2O_255,Yang et al 2018,1,"forest gap 1, inside",Yang et al 2018/N2O_1,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_256,Yang et al 2018,1,"forest gap 1, outside",Yang et al 2018/N2O_2,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_257,Yang et al 2018,1,"forest gap 2, inside",Yang et al 2018/N2O_3,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_258,Yang et al 2018,1,"forest gap 2, outside",Yang et al 2018/N2O_4,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_259,Yang et al 2018,1,"forest gap 3, inside",Yang et al 2018/N2O_5,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_260,Yang et al 2018,1,"forest gap 3, outside",Yang et al 2018/N2O_6,mg N2O m-2 h-1,Y,NA,NA,NA,summer,15-35%,N,N
+N2O_261,Yao et al 2009,1,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_262,Yao et al 2009,2,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_263,Yao et al 2009,3,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_264,Yao et al 2009,4,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_265,Yao et al 2009,5,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_266,Yao et al 2009,6,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_267,Yao et al 2009,7,"non-tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_1,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_268,Yao et al 2009,1,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_269,Yao et al 2009,2,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_270,Yao et al 2009,3,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_271,Yao et al 2009,4,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_272,Yao et al 2009,5,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_273,Yao et al 2009,6,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_274,Yao et al 2009,7,"tilled, 38 kg N ha-1 NH4NO3 and 75 kg N ha-1 urea ",Yao et al 2009/N2O_2,ug N m-2 h-1,Y,8,1.16,sandy loam,autumn,55-75%,N,N
+N2O_275,Yeboah et al 2018,1,0 t biochar ha-1,Yeboah et al 2018/N2O_1,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_276,Yeboah et al 2018,1,10 t biochar ha-1,Yeboah et al 2018/N2O_2,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_277,Yeboah et al 2018,1,20 t biochar ha-1,Yeboah et al 2018/N2O_3,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_278,Yeboah et al 2018,1,30 t biochar ha-1,Yeboah et al 2018/N2O_4,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_279,Yeboah et al 2018,1,40 t biochar ha-1,Yeboah et al 2018/N2O_5,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_280,Yeboah et al 2018,1,50 t biochar ha-1,Yeboah et al 2018/N2O_6,mg N2O m-2 h-1,N,8.4,1.17,sandy loam,spring,NA,N,N
+N2O_281,Zona et al 2013,avg,"average of 3 days, 19-22/08",Zona et al 2013/N2O_1,ug N m-2 h-1,Y,NA,NA,sand,summer,55-75%,N,N
+N2O_282,Zona et al 2013,avg,"average of 3 days, 23-25/08",Zona et al 2013/N2O_2,ug N m-2 h-1,Y,NA,NA,sand,summer,55-75%,N,N
+N2O_283,Zona et al 2013,avg,average of September,Zona et al 2013/N2O_3,ug N m-2 h-1,Y,NA,NA,sand,autumn,55-75%,N,N
+N2O_284,Zona et al 2013,avg,average of October ,Zona et al 2013/N2O_4,ug N m-2 h-1,Y,NA,NA,sand,autumn,55-75%,N,N
+N2O_285,Zona et al 2013,avg,average of November,Zona et al 2013/N2O_5,ug N m-2 h-1,Y,NA,NA,sand,autumn,55-75%,N,N
+N2O_286,Christensen 1983,1,N2O flux one week after slurry application,Christensen 1983/N2O_1,mg N2O m-2 h-1,N,5.3,NA,sandy loam,summer,NA,N,N
